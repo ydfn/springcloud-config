@@ -1,2 +1,2 @@
 config:
-  into: "master branch,springcloud-config/config-dev.yml version=7"
+  info: "master branch,springcloud-config/config-dev.yml version=7"
